@@ -27,6 +27,3 @@ It includes test planning, test scenario design, test case writting, defect repo
  - Manual Testing Techniques
  - MS Excel / Google Sheets
  - Github
-
- - 
- - 
