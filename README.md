@@ -19,6 +19,31 @@ The project includes:
 - Defect Reporting
 - Requirement Traceability Matrix (RTM)
 
+## Project Testing Workflow
+
+The project followed an Agile-based manual testing workflow to ensure proper requirement traceability, test coverage, and defect management.
+
+```
+SRS / Requirement Analysis
+        ↓
+Test Planning
+        ↓
+Epic Creation
+        ↓
+User Story Creation
+        ↓
+Acceptance Criteria Definition
+        ↓
+Test Scenario Creation (Jira Subtasks)
+        ↓
+Test Case Design
+        ↓
+Test Case Execution
+        ↓
+Bug Reporting & Tracking
+        ↓
+Retesting & Validation
+```
 ## Modules Covered
 Testing was organized module-wise using Epics and User Stories for better traceability and test management.
 
